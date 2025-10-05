@@ -16,7 +16,7 @@ To get started we recommend:
 
 3) Selecting a performance (pgm) either via the SG or ODNI. You should see the gui update if everything is set up correctly.
 
-4) Moving a fader. You will see that TAKEOVER is enabled by default, while the number is red the midi data is being intercepted and will not be allowed to pass until it hits or crosses the threshold of the stored value. The number will be positive or negative to show in which direction you need to move, and will turn green once takeover is effected. This prevents sudden jumps when changing programs, it only applies to the continuous controls (not the switches), and can be disabled via the radio button.
+4) Moving a fader on the SG. You will see that TAKEOVER is enabled by default, while the number is red the midi data is being intercepted and will not be allowed to pass until it hits or crosses the threshold of the stored value. The number will be positive or negative to show in which direction you need to move, and will turn green once takeover is effected. This prevents sudden jumps when changing programs, it only applies to the continuous controls (not the switches), and can be disabled via the radio button.
 
 5) If you have the ODNI midi channel set the same as your SG, you will also note that the display automatically updates depending on which layer's controls you are using. This can be disabled by unchecking the box above the layer select radio button.
 
