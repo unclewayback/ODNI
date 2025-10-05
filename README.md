@@ -10,7 +10,7 @@ To get started we recommend:
 
 0) Using [plugdata](https://github.com/plugdata-team/plugdata), which is the form of [puredata](https://github.com/pure-data/pure-data) this patch was made in. This should ensure the gui displays correctly (font sizes don't always translate so well). Gui is not really what PD is about, so you will probably find this aspect quite limited. You should be able to zoom in and out and move around. You can collapse the side bar. **Make sure you're not in (ctrl+E) EDIT mode!** (either RUN mode, else select "presentation mode" - the display icon in the top bar (though this will disappear comments.))
 
-1) Making the following settings on your Gemini: LOCAL OFF, TX/RX P = 1 & 2 on, TX/RX E = 1 & 2 on, 3 off, PERF mode selected. Also making sure that - settings menu, midi tab - the SG is recognised and midi in/out is enabled.
+1) Making the following settings on your Gemini: LOCAL OFF, TX/RX P = 1 & 2 on, TX/RX E = 1 & 2 on, 3 off, PERF mode selected. Also making sure that - plugdata: settings menu, midi tab - the SG is recognised and midi in/out is enabled.
 
 2) Pressing the /DIR button and selecting your mounted GEMINI drive from the pop up.
 
